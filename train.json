@@ -1,0 +1,8 @@
+[
+  {"sentence": "Horses are too tall and they pretend to care about your feelings", "entities":["ANIMAL"], "phrases": ["Horses"]},
+  {"sentence": "Do they bite?", "entities": [], "phrases": []},
+  {"sentence": "horses are too tall and they pretend to care about your feelings", "entities": ["ANIMAL"], "phrases": ["horses"]},
+  {"sentence": "horses pretend to care about your feelings", "entities": ["ANIMAL"], "phrases": ["horses"]},
+  {"sentence": "they pretend to care about your feelings, those horses", "entities": ["ANIMAL"], "phrases": ["horses"]},
+  {"sentence": "horses?", "entities": ["ANIMAL"], "phrases": ["horses"]}
+]
